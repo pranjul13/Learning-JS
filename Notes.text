@@ -1,0 +1,35 @@
+>   4 Pillars of OOPS:-
+    1. Encapsulation
+    2. Abstraction
+    3. Inheritance
+    4. Polymorphism
+
+>   In OOPS, we combine property and methods in an object.
+
+>   Encapsulation - Reduce complexity + increase reusability.
+    Abstraction - Hide some properties and methods from outside.
+    Inheritance - Eliminate reduntant code.
+    Polymorphism - Refactor ugle if and switch-else.
+
+>   In JS, we do not have the concept of classes.
+    For defining the constructor function, the first letter of the function name should be in upper case.
+    E.G: function Circle()  // Here, this Circle() is a constructor function.
+
+>   "this" keyword is used to refer to the object that is executing the current line of code.
+    By default, "this" points to the 'global object'.
+    In browser, "window" is the global object and inside node, "global" is the global object.
+    New function will internally create an empty object and pass it as the first argument to the call method.
+
+>   If we return an object in a function, that function is known as "factory function".
+>   If we use "this" keyword along with the "new" operator, we refer to the function as constructor function.
+
+>   Every object in JS has a property called "constructor" which refers to the function that was used to create that object.
+    To check the constructor property of a function, type "objectname.constructor" and you will get the function.
+
+>   functionName."length" - Returns the number of arguments of the circle.
+
+>   We can break the code into multiple lines, using the backtick character `` and can even pass it as an argument to a function.
+
+>   Primitives are compiled by their value.
+    Objects are compiled by their reference.
+
