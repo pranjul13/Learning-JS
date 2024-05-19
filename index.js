@@ -49,6 +49,8 @@ let runtimeSelectionValue = 'name';
 person[runtimeSelectionValue] = 'Devil King';
 console.log('\nBracket Notation Runtime\nValue of name after the getting and changing it at runtime is ', person[runtimeSelectionValue]);
 console.log('\n', person.name);
+// Bracket Notation comes in handy when we have to assign a property at runtime.
+// Also, if the property has special characters or space, then bracket notation is a must.
 
 let selectedColors = ['red', 'blue']; // Array Literal.
 console.log(selectedColors); // Printing complete array.

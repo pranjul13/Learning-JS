@@ -30,6 +30,13 @@
 
 >   We can break the code into multiple lines, using the backtick character `` and can even pass it as an argument to a function.
 
->   Primitives are compiled by their value.
+>   Primitives are compiled by their value.     // index3.js
     Objects are compiled by their reference.
 
+>   Primitive Types:-   // Copied by value.
+    Number, String, Boolean, Symbol, undefined, null
+    Reference Types:-   // Copies by reference.
+    Object, Function, Array
+
+>   We can also dynamically delete one or more properties from the object at runtime.
+    delete objectName.propertyName.
