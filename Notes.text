@@ -40,3 +40,10 @@
 
 >   We can also dynamically delete one or more properties from the object at runtime.
     delete objectName.propertyName.
+
+>   'Object.keys' - Object.keys(objectName);   // index4.js
+    Stores all the properties of an object and returns it as an array.
+    const keys = Object.keys(circle);
+    console.log(keys);
+
+>   'in' can also be used inside the if conditions.
