@@ -47,3 +47,8 @@
     console.log(keys);
 
 >   'in' can also be used inside the if conditions.
+
+>   Abstraction - Showing the essentials and hiding the unncessary information.
+    Unsuccessful implementation leads to security issues.
+
+>   Object.defineProperty is used to define getter or setter of a function.
