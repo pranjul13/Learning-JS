@@ -1,0 +1,5 @@
+>   npm init    // Command will automatically create package.json file. // Most important file of the project.
+
+>   npm i colors    // Command will create the folder with name node modules and will install the node packages, in that file.
+
+>   

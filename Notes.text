@@ -52,3 +52,9 @@
     Unsuccessful implementation leads to security issues.
 
 >   Object.defineProperty is used to define getter or setter of a function.
+
+>   "dependencies" object will be created inside the package.json, when external modules are installed. // Commands.text
+
+>   "package-lock.json" files keeps all the details of the packages.
+
+>   Node.js is a single threaded framework. It only runs one command at a time.
