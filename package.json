@@ -1,0 +1,20 @@
+{
+  "name": "learning-js",
+  "version": "1.0.0",
+  "description": "Learning Node and JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Learning-JS.git)"
+  },
+  "keywords": [
+    "Learning",
+    "JS."
+  ],
+  "author": "Pranjul Mishra",
+  "license": "ISC"
+}
