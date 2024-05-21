@@ -57,4 +57,12 @@
 
 >   "package-lock.json" files keeps all the details of the packages.
 
->   Node.js is a single threaded framework. It only runs one command at a time.
+>   Node.js is a single threaded framework. It only runs one command at a time. Node.js is also an async language.
+
+>>  If node modules folder is deleted locally by mistake, just run the command "npm install" and all the modules will be installed automatically, with the help of the "package.json" file.
+
+>   Node modules should never be pushed on source/version control.  // Package and modules are the same thing.
+
+>   "nodemon" package continuosly runs the package, without having to run it again and again.   // Install it globally using "npm i nodemon -g".    // As soon as we save the file, it will run the last command automatically.
+
+>   
